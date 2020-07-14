@@ -10,5 +10,5 @@ Covid data science
 ---
 * Uk data https://coronavirus-staging.data.gov.uk/
 
-![](/UK_Data/UK_New_Cases.jpg)
-![](/UK_Data/UK_New_Deaths.jpg)
+![](/UK_Data/UK_New_Cases.png)
+![](/UK_Data/UK_New_Deaths.png)

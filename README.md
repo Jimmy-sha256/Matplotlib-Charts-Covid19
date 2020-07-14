@@ -36,7 +36,7 @@ Below are examples of problematic countries
 
 ![](/WHO_Data/USA.png)
 
-* Brasil is still on its first wave
+* Brazil is still on its first wave
 
 ![](/WHO_Data/Brasil.png)
 

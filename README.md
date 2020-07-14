@@ -11,7 +11,7 @@ Covid data science
 ![](/UK_Data/UK_New_Cases.png)
 ![](/UK_Data/UK_New_Deaths.png)
 
-data source https://coronavirus-staging.data.gov.uk/
+data sourced https://coronavirus-staging.data.gov.uk/
 
 
 Below are examples of problematic countries
@@ -40,7 +40,7 @@ Below are examples of problematic countries
 
 ![](/WHO_Data/Brasil.png)
 
-data source from https://covid19.who.int/WHO-COVID-19-global-data.csv
+data sourced from https://covid19.who.int/WHO-COVID-19-global-data.csv
 
 * Public anger towards UK prime ministers top aid Dominic Cummings 
 

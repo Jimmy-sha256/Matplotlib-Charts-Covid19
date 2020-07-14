@@ -11,8 +11,7 @@ Covid data science
 ![](/UK_Data/UK_New_Cases.png)
 ![](/UK_Data/UK_New_Deaths.png)
 
-source https://coronavirus-staging.data.gov.uk/
-
+data source https://coronavirus-staging.data.gov.uk/
 
 
 Below are examples of problematic countries, the charts have been created with WHO data which has a few anomlies in it
@@ -31,15 +30,13 @@ Below are examples of problematic countries, the charts have been created with W
 
 * America, not sure if this is a second wave or an extension of the first wave
 
-![](/WHO_Data/America.png)
+![](/WHO_Data/USA.png)
 
 * Brasil is still on its first wave
 
 ![](/WHO_Data/Brasil.png)
 
-* India currently one of the worst effected countries is still on its first wave
-
-![](/WHO_Data/India.png)
+data source from https://covid19.who.int/WHO-COVID-19-global-data.csv
 
 * Public anger towards UK prime ministers top aid Dominic Cummings 
 

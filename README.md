@@ -1,5 +1,4 @@
 # Covid19
----
 Covid data science
 
 
@@ -20,4 +19,4 @@ Below are examples of problematic countries, the charts have been created with W
 
 * Iran currently showing a second wave
 
-![](/WHO_Data/Iran.png.jpg)
+![](/WHO_Data/Iran.png)

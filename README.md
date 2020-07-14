@@ -14,7 +14,7 @@ Covid data science
 data source https://coronavirus-staging.data.gov.uk/
 
 
-Below are examples of problematic countries, the charts have been created with WHO data which has a few anomlies in it
+Below are examples of problematic countries
 
 * Iran currently showing a second wave
 
@@ -27,6 +27,10 @@ Below are examples of problematic countries, the charts have been created with W
 * Australia currently showing a second wave
 
 ![](/WHO_Data/Australia.png)
+
+* Spain new cases just begining to tick up
+
+![](/WHO_Data/Spain.png)
 
 * America, not sure if this is a second wave or an extension of the first wave
 

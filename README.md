@@ -43,7 +43,7 @@ Below are examples of problematic countries, the charts have been created with W
 
 * Public anger towards UK prime ministers top aid Dominic Cummings 
 
-![](Dominic_Cummings.png)
+![](Dominic_Cummings.jpg)
 
 
 

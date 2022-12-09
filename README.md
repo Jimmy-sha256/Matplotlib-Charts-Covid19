@@ -2,10 +2,6 @@
 Covid data science
 
 
-* Influenza pandemic 1918
-
-![](Influenza_Pandemic.jpg)
-
 * Uk data showing the begining of a second wave 
 
 ![](/UK_Data/UK_New_Cases.png)

@@ -2,7 +2,7 @@
 Covid data science
 
 
-* Uk data showing the begining of a second wave 
+* Uk data
 
 ![](/UK_Data/UK_New_Cases.png)
 ![](/UK_Data/UK_New_Deaths.png)
@@ -10,29 +10,29 @@ Covid data science
 data sourced https://coronavirus-staging.data.gov.uk/
 
 
-Below are examples of problematic countries
+Below are examples using WHO Data
 
-* Iran currently showing a second wave
+* Iran 
 
 ![](/WHO_Data/Iran.png)
 
-* Israel currently showing a second wave
+* Israel
 
 ![](/WHO_Data/Israel.png)
 
-* Australia currently showing a second wave
+* Australia
 
 ![](/WHO_Data/Australia.png)
 
-* Spain new cases just begining to tick up
+* Spain
 
 ![](/WHO_Data/Spain.png)
 
-* America, not sure if this is a second wave or an extension of the first wave
+* America
 
 ![](/WHO_Data/USA.png)
 
-* Brazil is still on its first wave
+* Brazil
 
 ![](/WHO_Data/Brasil.png)
 

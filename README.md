@@ -38,11 +38,6 @@ Below are examples of problematic countries
 
 data sourced from https://covid19.who.int/WHO-COVID-19-global-data.csv
 
-* Public anger towards UK prime ministers top aid Dominic Cummings 
-
-![](Dominic_Cummings.jpg)
-
-
 
 
 
